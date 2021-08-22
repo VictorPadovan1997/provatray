@@ -1,2 +1,2 @@
-1629648629
+1629649886
 a:5:{s:2:"id";a:6:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:11;s:8:"unsigned";b:0;s:3:"key";s:7:"primary";}s:14:"comerciante_id";a:6:{s:4:"type";s:7:"integer";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:11;s:8:"unsigned";b:0;s:3:"key";s:5:"index";}s:8:"comissao";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:1;s:7:"default";N;s:6:"length";i:11;s:8:"unsigned";b:0;}s:14:"valor_da_venda";a:5:{s:4:"type";s:7:"decimal";s:4:"null";b:1;s:7:"default";N;s:6:"length";s:4:"10,2";s:8:"unsigned";b:0;}s:13:"data_da_venda";a:4:{s:4:"type";s:4:"date";s:4:"null";b:1;s:7:"default";N;s:6:"length";N;}}
