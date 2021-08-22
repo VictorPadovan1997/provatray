@@ -25,9 +25,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [XAMPP](https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/5.6.40/)
 - [PHP V.5](https://nodejs.org/en/)
+- [CAKEPHP 2.X](https://cakephp.org/)
 
 - Para teste será necessario criar as tabelas no banco de dados MYSQL foi utilizado em ambiente de teste XAMPP.
 ```
+Nome do Banco de dados: provatray (Config/database.php)
+
 CREATE TABLE comerciantes (
     id int(11) NOT NULL AUTO_INCREMENT,
     nome varchar(20) DEFAULT NULL,
