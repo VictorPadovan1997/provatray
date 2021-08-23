@@ -48,3 +48,7 @@ CREATE TABLE vendas (
     CONSTRAINT `comerciante_id_venda` FOREIGN KEY (`comerciante_id`) REFERENCES `comerciantes` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
 )ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```
+
+# Envio de e-mail
+
+![alt tag](https://i.ibb.co/0VRbxpN/Screenshot-20210822-230140-Gmail.jpg)
